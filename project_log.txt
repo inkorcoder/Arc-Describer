@@ -1,0 +1,78 @@
+[00:19:59] ./dist/js/main.js
+[00:20:17] ./coffee/arc_describer.coffee
+[00:20:17] ./coffee/arc_describer.coffee
+           ./coffee/main.coffee
+
+
+################################################################# 
+Gulp.js started at 04.02.2016 :: 00:20:34 
+----------------------------------------------------------------- 
+USER       inkor 
+OS         Lubuntu 
+PLATFORM   linux 
+node -v    4.2.6 
+v8 -v      4.5.103.35 
+#################################################################
+[00:20:35] ./coffee/arc_describer.coffee
+[00:20:35] ./scss/_calc.scss
+[00:20:35] ./dist/index.html
+[00:20:35] ./html/index.html
+[00:20:35] ./dist/css/flex.min.css
+[00:20:35] ./dist/js/arc_describer.js
+[00:20:35] ./coffee/arc_describer.coffee
+           ./coffee/main.coffee
+[00:20:35] ./scss/_calc.scss
+           ./scss/_config.scss
+[00:20:35] ./dist/css/flex.min.css
+           ./dist/css/grid.min.css
+[00:20:35] ./dist/js/arc_describer.js
+           ./dist/js/main.js
+[00:20:35] ./scss/_calc.scss
+           ./scss/_config.scss
+           ./scss/_func.scss
+[00:20:35] ./dist/css/flex.min.css
+           ./dist/css/grid.min.css
+           ./dist/css/grid_.min.css
+[00:20:36] ./dist/index.html
+[00:20:36] ./dist/js/arc_describer.js
+[00:20:35] ./scss/_calc.scss
+           ./scss/_config.scss
+           ./scss/_func.scss
+           ./scss/grid.scss
+[00:20:35] ./dist/css/flex.min.css
+           ./dist/css/grid.min.css
+           ./dist/css/grid_.min.css
+           ./dist/css/skin.min.css
+[00:20:36] ./dist/js/arc_describer.js
+           ./dist/js/main.js
+[00:20:35] ./scss/_calc.scss
+           ./scss/_config.scss
+           ./scss/_func.scss
+           ./scss/grid.scss
+           ./scss/skin.scss
+[00:20:36] ./dist/js/arc_describer.js
+[00:20:36] ./dist/js/arc_describer.js
+           ./dist/js/main.js
+[00:20:39] ./dist/css/flex.min.css
+[00:20:39] ./dist/css/flex.min.css
+           ./dist/css/grid.min.css
+[00:20:39] ./dist/css/flex.min.css
+           ./dist/css/grid.min.css
+           ./dist/css/grid_.min.css
+[00:20:39] ./dist/css/flex.min.css
+           ./dist/css/grid.min.css
+           ./dist/css/grid_.min.css
+           ./dist/css/skin.min.css
+[00:20:40] ./dist/css/flex.min.css
+[00:20:40] ./dist/css/flex.min.css
+           ./dist/css/grid.min.css
+[00:20:40] ./dist/css/flex.min.css
+           ./dist/css/grid.min.css
+           ./dist/css/grid_.min.css
+[00:20:40] ./dist/css/flex.min.css
+           ./dist/css/grid.min.css
+           ./dist/css/grid_.min.css
+           ./dist/css/skin.min.css
+[00:20:44] ./dist/js/arc_describer.js
+[00:20:49] ./coffee/arc_describer.coffee
+[00:20:50] ./dist/js/arc_describer.js

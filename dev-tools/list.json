@@ -1,0 +1,14 @@
+[
+  "dist/css/flex.min.css",
+  "dist/css/flex.min.scss",
+  "dist/css/grid.min.css",
+  "dist/css/grid_.min.css",
+  "dist/css/skin.min.css",
+  "dist/css/full/flex.css",
+  "dist/css/full/flex.scss",
+  "dist/css/full/grid.css",
+  "dist/css/full/grid_.css",
+  "dist/css/full/skin.css",
+  "dist/js/arc_describer.js",
+  "dist/index.html"
+]
